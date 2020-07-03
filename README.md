@@ -18,6 +18,12 @@ When cloning or pulling a code, you may want to get a specific version of it. Th
 git clone --single-branch --branch OpenFOAM6 https://github.com/precice/openfoam-adapter.git
 ```
 
+### Test a pull request before merging
+(inspired from this [article](https://medium.com/@bolajiayodeji/how-to-test-a-pull-request-locally-before-merging-634bb205d3a6)).
+   1. Get the ID of the branch you want to test. For instance the ID of `https://github.com/precice/openfoam-adapter/pull/121` is 121.
+   2. Fetch it on your machine with the command `git fetch origin pull/ID/head`
+   3. Make it the "considered" branch by checkin it out via the command `git checkout FETCH_HEAD` (Notice that it has been named FETCH_HEAD in step 2)
+
 ## Safe surf
 This is a list of advices for enjoying a safe surfing of the web. It consists in a personal account of short and salient recomendations possibly accompagnied by an irrelevant comment.
 
