@@ -10,7 +10,7 @@ To discover Github's lingo, visit their [official glossary](https://docs.github.
 ### Pull a specific branch
 When cloning or pulling a code, you may want to get a specific version of it. This is generally called a branch. This is how you do it (inspired from [this thread](https://precice.discourse.group/t/installation-of-precice-v2-and-its-openfoam-adapter/171/7)):
 
-```
+``` 
 git clone --single-branch --branch OpenFOAM6 https://github.com/precice/openfoam-adapter.git
 ```
 
