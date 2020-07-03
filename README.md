@@ -17,19 +17,20 @@ git clone --single-branch --branch OpenFOAM6 https://github.com/precice/openfoam
 ## Safe surf
 This is a list of advices for enjoying a safe surfing of the web. It consists in a personal account of short and salient recomendations possibly accompagnied by an irrelevant comment.
 
-1. Think twice before you click, just twice.
+- Think twice before you click, just twice.
 
 French people overcomplicate it by "twisting their tongue seven times in their mouth before speaking", but really, as you should carve every word before you let it fall, you should only have the gumption whether to click or not after pointing. 
 
-2. Review yourself.
+- Review yourself.
 
 Proofread, check the meaning of your words and your tone, give your text a proper structure. Misunderstanding could lead to offense or a useless loss of time. This is true for literally everybody in every languages, and in particular for foreigners. When learning a new language or translating something, you may need to lean on resources more reliable than Google Translate (please do). Please consider resorting to some of the followings:
 
   * [the thesaurus](https://www.thesaurus.com/) for synonyms and antonyms,
   * [linguee](https://www.linguee.com/) for adapting idioms,
   * [reverso dictionnary](https://dictionary.reverso.net/) for the same things. 
-3. Be gentle.
+  
+- Be gentle.
 Being nice has nothing ideological, political or religious. Think of Saint Thomas' adage: "Believe what you see". Note: Not only "you can't see it, you don't believe in it", but you also are encouraged to embrace it if you witness it. It is basically the duck test from another perspective. Although in this context, I wanted to emphasize the importance of doing to people what you want them to do to you.
 
-4. Browse smart.
+- Browse smart.
 Coming: Google dorks, private browsing and keyboard shortcuts.
