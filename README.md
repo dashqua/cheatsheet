@@ -7,6 +7,10 @@ For a satisfying list of Github-flavored Mardown commands, visit [this link](htt
 
 To discover Github's lingo, visit their [official glossary](https://docs.github.com/en/github/getting-started-with-github/github-glossary) webpage.
 
+### Nested lists in Markdown
+
+Lists look good. Get yourself out of the hell of organizing your list in Github's MD by following exactly how they do [there](https://github.com/defunkt/markdown-mode/blob/master/tests/nested-list.text).
+
 ### Pull a specific branch
 When cloning or pulling a code, you may want to get a specific version of it. This is generally called a branch. This is how you do it (inspired from [this thread](https://precice.discourse.group/t/installation-of-precice-v2-and-its-openfoam-adapter/171/7)):
 
