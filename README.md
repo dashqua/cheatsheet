@@ -24,6 +24,7 @@ French people overcomplicate it by "twisting their tongue seven times in their m
 2. Review yourself.
 
 Proofread, check the meaning of your words and your tone, give your text a proper structure. Misunderstanding could lead to offense or a useless loss of time. This is true for literally everybody in every languages, and in particular for foreigners. When learning a new language or translating something, you may need to lean on resources more reliable than Google Translate (please do). Please consider resorting to some of the followings:
+
     1. [the thesaurus](https://www.thesaurus.com/) for synonyms and antonyms,
     2. [linguee](https://www.linguee.com/) for adapting idioms,
     3. [reverso dictionnary](https://dictionary.reverso.net/) for the same things.
