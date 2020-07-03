@@ -1,5 +1,6 @@
 # cheatsheet
 A collection of tips and tricks for developpers.
+To anybody who reads this, you are encouraged to propose new things via a pull request.
 
 ## Git
 For a satisfying list of Github-flavored Mardown commands, visit [this link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
