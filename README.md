@@ -13,3 +13,7 @@ When cloning or pulling a code, you may want to get a specific version of it. Th
 ```
 git clone --single-branch --branch OpenFOAM6 https://github.com/precice/openfoam-adapter.git
 ```
+
+## Safe surf
+* Think twice before you click, just twice.
+French people overcomplicate it by "twisting their tongue seven times in their mouth before speaking", but really, as you should carve every word before you let it fall, you should only have the gumption whether to click or not after pointing. 
