@@ -4,6 +4,7 @@ To anybody who reads this, you are encouraged to propose new things via a pull r
 
 ## Git
 For a satisfying list of Github-flavored Mardown commands, visit [this link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
 To discover Github's lingo, visit their [official glossary](https://docs.github.com/en/github/getting-started-with-github/github-glossary) webpage.
 
 ### Pull a specific branch
