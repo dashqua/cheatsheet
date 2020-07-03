@@ -28,6 +28,8 @@ Proofread, check the meaning of your words and your tone, give your text a prope
   * [the thesaurus](https://www.thesaurus.com/) for synonyms and antonyms,
   * [linguee](https://www.linguee.com/) for adapting idioms,
   * [reverso dictionnary](https://dictionary.reverso.net/) for the same things. 
-
 3. Be gentle.
 Being nice has nothing ideological, political or religious. Think of Saint Thomas' adage: "Believe what you see". Note: Not only "you can't see it, you don't believe in it", but you also are encouraged to embrace it if you witness it. It is basically the duck test from another perspective. Although in this context, I wanted to emphasize the importance of doing to people what you want them to do to you.
+
+4. Browse smart.
+Coming: Google dorks, private browsing and keyboard shortcuts.
